@@ -1,4 +1,4 @@
-# nuxt-portfolio
+# nuxt-hello
 
 ## Build Setup
 
