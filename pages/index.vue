@@ -1,5 +1,8 @@
 <template>
-  <sample-component />
+  <div>
+    <sample-component />
+    <nuxt-link to="/about">About</nuxt-link>
+  </div>
 </template>
 
 <script>
